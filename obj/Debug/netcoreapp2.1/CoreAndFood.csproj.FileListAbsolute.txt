@@ -1,0 +1,87 @@
+c:\users\damla-baba\source\repos\CoreAndFood\CoreAndFood\bin\Debug\netcoreapp2.1\CoreAndFood.deps.json
+c:\users\damla-baba\source\repos\CoreAndFood\CoreAndFood\bin\Debug\netcoreapp2.1\CoreAndFood.runtimeconfig.json
+c:\users\damla-baba\source\repos\CoreAndFood\CoreAndFood\bin\Debug\netcoreapp2.1\CoreAndFood.runtimeconfig.dev.json
+c:\users\damla-baba\source\repos\CoreAndFood\CoreAndFood\bin\Debug\netcoreapp2.1\CoreAndFood.dll
+c:\users\damla-baba\source\repos\CoreAndFood\CoreAndFood\obj\Debug\netcoreapp2.1\CoreAndFood.csproj.CoreCompileInputs.cache
+c:\users\damla-baba\source\repos\CoreAndFood\CoreAndFood\obj\Debug\netcoreapp2.1\CoreAndFood.RazorAssemblyInfo.cache
+c:\users\damla-baba\source\repos\CoreAndFood\CoreAndFood\obj\Debug\netcoreapp2.1\CoreAndFood.RazorAssemblyInfo.cs
+c:\users\damla-baba\source\repos\CoreAndFood\CoreAndFood\obj\Debug\netcoreapp2.1\CoreAndFood.AssemblyInfoInputs.cache
+c:\users\damla-baba\source\repos\CoreAndFood\CoreAndFood\obj\Debug\netcoreapp2.1\CoreAndFood.AssemblyInfo.cs
+c:\users\damla-baba\source\repos\CoreAndFood\CoreAndFood\obj\Debug\netcoreapp2.1\CoreAndFood.RazorTargetAssemblyInfo.cache
+c:\users\damla-baba\source\repos\CoreAndFood\CoreAndFood\bin\Debug\netcoreapp2.1\CoreAndFood.pdb
+c:\users\damla-baba\source\repos\CoreAndFood\CoreAndFood\obj\Debug\netcoreapp2.1\CoreAndFood.dll
+c:\users\damla-baba\source\repos\CoreAndFood\CoreAndFood\obj\Debug\netcoreapp2.1\CoreAndFood.pdb
+c:\users\damla-baba\source\repos\CoreAndFood\CoreAndFood\bin\Debug\netcoreapp2.1\CoreAndFood.Views.dll
+c:\users\damla-baba\source\repos\CoreAndFood\CoreAndFood\bin\Debug\netcoreapp2.1\CoreAndFood.Views.pdb
+c:\users\damla-baba\source\repos\CoreAndFood\CoreAndFood\obj\Debug\netcoreapp2.1\CoreAndFood.TagHelpers.input.cache
+c:\users\damla-baba\source\repos\CoreAndFood\CoreAndFood\obj\Debug\netcoreapp2.1\CoreAndFood.TagHelpers.output.cache
+c:\users\damla-baba\source\repos\CoreAndFood\CoreAndFood\obj\Debug\netcoreapp2.1\CoreAndFood.RazorCoreGenerate.cache
+c:\users\damla-baba\source\repos\CoreAndFood\CoreAndFood\obj\Debug\netcoreapp2.1\CoreAndFood.RazorTargetAssemblyInfo.cs
+c:\users\damla-baba\source\repos\CoreAndFood\CoreAndFood\obj\Debug\netcoreapp2.1\CoreAndFood.Views.pdb
+c:\users\damla-baba\source\repos\CoreAndFood\CoreAndFood\obj\Debug\netcoreapp2.1\CoreAndFood.csproj.CopyComplete
+c:\users\damla-baba\source\repos\CoreAndFood\CoreAndFood\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+c:\users\damla-baba\source\repos\CoreAndFood\CoreAndFood\obj\Debug\netcoreapp2.1\CoreAndFood.csprojAssemblyReference.cache
+c:\users\damla-baba\source\repos\CoreAndFood\CoreAndFood\obj\Debug\netcoreapp2.1\Razor\Views\Category\Index.g.cshtml.cs
+E:\CoreAndFood\CoreAndFood\bin\Debug\netcoreapp2.1\CoreAndFood.deps.json
+E:\CoreAndFood\CoreAndFood\bin\Debug\netcoreapp2.1\CoreAndFood.runtimeconfig.json
+E:\CoreAndFood\CoreAndFood\bin\Debug\netcoreapp2.1\CoreAndFood.runtimeconfig.dev.json
+E:\CoreAndFood\CoreAndFood\bin\Debug\netcoreapp2.1\CoreAndFood.dll
+E:\CoreAndFood\CoreAndFood\bin\Debug\netcoreapp2.1\CoreAndFood.pdb
+E:\CoreAndFood\CoreAndFood\bin\Debug\netcoreapp2.1\CoreAndFood.Views.dll
+E:\CoreAndFood\CoreAndFood\bin\Debug\netcoreapp2.1\CoreAndFood.Views.pdb
+E:\CoreAndFood\CoreAndFood\obj\Debug\netcoreapp2.1\CoreAndFood.csprojAssemblyReference.cache
+E:\CoreAndFood\CoreAndFood\obj\Debug\netcoreapp2.1\CoreAndFood.csproj.CoreCompileInputs.cache
+E:\CoreAndFood\CoreAndFood\obj\Debug\netcoreapp2.1\CoreAndFood.RazorAssemblyInfo.cache
+E:\CoreAndFood\CoreAndFood\obj\Debug\netcoreapp2.1\CoreAndFood.RazorAssemblyInfo.cs
+E:\CoreAndFood\CoreAndFood\obj\Debug\netcoreapp2.1\CoreAndFood.AssemblyInfoInputs.cache
+E:\CoreAndFood\CoreAndFood\obj\Debug\netcoreapp2.1\CoreAndFood.AssemblyInfo.cs
+E:\CoreAndFood\CoreAndFood\obj\Debug\netcoreapp2.1\CoreAndFood.TagHelpers.input.cache
+E:\CoreAndFood\CoreAndFood\obj\Debug\netcoreapp2.1\CoreAndFood.TagHelpers.output.cache
+E:\CoreAndFood\CoreAndFood\obj\Debug\netcoreapp2.1\CoreAndFood.RazorCoreGenerate.cache
+E:\CoreAndFood\CoreAndFood\obj\Debug\netcoreapp2.1\Razor\Views\Category\Index.g.cshtml.cs
+E:\CoreAndFood\CoreAndFood\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+E:\CoreAndFood\CoreAndFood\obj\Debug\netcoreapp2.1\CoreAndFood.RazorTargetAssemblyInfo.cache
+E:\CoreAndFood\CoreAndFood\obj\Debug\netcoreapp2.1\CoreAndFood.RazorTargetAssemblyInfo.cs
+E:\CoreAndFood\CoreAndFood\obj\Debug\netcoreapp2.1\CoreAndFood.Views.pdb
+E:\CoreAndFood\CoreAndFood\obj\Debug\netcoreapp2.1\CoreAndFood.dll
+E:\CoreAndFood\CoreAndFood\obj\Debug\netcoreapp2.1\CoreAndFood.pdb
+E:\CoreAndFood\CoreAndFood\obj\Debug\netcoreapp2.1\CoreAndFood.csproj.CopyComplete
+E:\CoreAndFood\CoreAndFood\obj\Debug\netcoreapp2.1\Razor\Views\Food\Index.g.cshtml.cs
+D:\DERSLER\YAZILIM DERSLERİ\WEB TASARIMI VE PROGRAMLAMA\WEB ÖRNEKLER\BACK-END\DotNet\Core\CoreAndFood\CoreAndFood\bin\Debug\netcoreapp2.1\CoreAndFood.deps.json
+D:\DERSLER\YAZILIM DERSLERİ\WEB TASARIMI VE PROGRAMLAMA\WEB ÖRNEKLER\BACK-END\DotNet\Core\CoreAndFood\CoreAndFood\bin\Debug\netcoreapp2.1\CoreAndFood.runtimeconfig.json
+D:\DERSLER\YAZILIM DERSLERİ\WEB TASARIMI VE PROGRAMLAMA\WEB ÖRNEKLER\BACK-END\DotNet\Core\CoreAndFood\CoreAndFood\bin\Debug\netcoreapp2.1\CoreAndFood.runtimeconfig.dev.json
+D:\DERSLER\YAZILIM DERSLERİ\WEB TASARIMI VE PROGRAMLAMA\WEB ÖRNEKLER\BACK-END\DotNet\Core\CoreAndFood\CoreAndFood\bin\Debug\netcoreapp2.1\CoreAndFood.dll
+D:\DERSLER\YAZILIM DERSLERİ\WEB TASARIMI VE PROGRAMLAMA\WEB ÖRNEKLER\BACK-END\DotNet\Core\CoreAndFood\CoreAndFood\bin\Debug\netcoreapp2.1\CoreAndFood.pdb
+D:\DERSLER\YAZILIM DERSLERİ\WEB TASARIMI VE PROGRAMLAMA\WEB ÖRNEKLER\BACK-END\DotNet\Core\CoreAndFood\CoreAndFood\bin\Debug\netcoreapp2.1\CoreAndFood.Views.dll
+D:\DERSLER\YAZILIM DERSLERİ\WEB TASARIMI VE PROGRAMLAMA\WEB ÖRNEKLER\BACK-END\DotNet\Core\CoreAndFood\CoreAndFood\bin\Debug\netcoreapp2.1\CoreAndFood.Views.pdb
+D:\DERSLER\YAZILIM DERSLERİ\WEB TASARIMI VE PROGRAMLAMA\WEB ÖRNEKLER\BACK-END\DotNet\Core\CoreAndFood\CoreAndFood\obj\Debug\netcoreapp2.1\CoreAndFood.csprojAssemblyReference.cache
+D:\DERSLER\YAZILIM DERSLERİ\WEB TASARIMI VE PROGRAMLAMA\WEB ÖRNEKLER\BACK-END\DotNet\Core\CoreAndFood\CoreAndFood\obj\Debug\netcoreapp2.1\CoreAndFood.csproj.CoreCompileInputs.cache
+D:\DERSLER\YAZILIM DERSLERİ\WEB TASARIMI VE PROGRAMLAMA\WEB ÖRNEKLER\BACK-END\DotNet\Core\CoreAndFood\CoreAndFood\obj\Debug\netcoreapp2.1\CoreAndFood.RazorAssemblyInfo.cache
+D:\DERSLER\YAZILIM DERSLERİ\WEB TASARIMI VE PROGRAMLAMA\WEB ÖRNEKLER\BACK-END\DotNet\Core\CoreAndFood\CoreAndFood\obj\Debug\netcoreapp2.1\CoreAndFood.RazorAssemblyInfo.cs
+D:\DERSLER\YAZILIM DERSLERİ\WEB TASARIMI VE PROGRAMLAMA\WEB ÖRNEKLER\BACK-END\DotNet\Core\CoreAndFood\CoreAndFood\obj\Debug\netcoreapp2.1\CoreAndFood.AssemblyInfoInputs.cache
+D:\DERSLER\YAZILIM DERSLERİ\WEB TASARIMI VE PROGRAMLAMA\WEB ÖRNEKLER\BACK-END\DotNet\Core\CoreAndFood\CoreAndFood\obj\Debug\netcoreapp2.1\CoreAndFood.AssemblyInfo.cs
+D:\DERSLER\YAZILIM DERSLERİ\WEB TASARIMI VE PROGRAMLAMA\WEB ÖRNEKLER\BACK-END\DotNet\Core\CoreAndFood\CoreAndFood\obj\Debug\netcoreapp2.1\CoreAndFood.TagHelpers.input.cache
+D:\DERSLER\YAZILIM DERSLERİ\WEB TASARIMI VE PROGRAMLAMA\WEB ÖRNEKLER\BACK-END\DotNet\Core\CoreAndFood\CoreAndFood\obj\Debug\netcoreapp2.1\CoreAndFood.TagHelpers.output.cache
+D:\DERSLER\YAZILIM DERSLERİ\WEB TASARIMI VE PROGRAMLAMA\WEB ÖRNEKLER\BACK-END\DotNet\Core\CoreAndFood\CoreAndFood\obj\Debug\netcoreapp2.1\CoreAndFood.RazorCoreGenerate.cache
+D:\DERSLER\YAZILIM DERSLERİ\WEB TASARIMI VE PROGRAMLAMA\WEB ÖRNEKLER\BACK-END\DotNet\Core\CoreAndFood\CoreAndFood\obj\Debug\netcoreapp2.1\Razor\Views\Category\Index.g.cshtml.cs
+D:\DERSLER\YAZILIM DERSLERİ\WEB TASARIMI VE PROGRAMLAMA\WEB ÖRNEKLER\BACK-END\DotNet\Core\CoreAndFood\CoreAndFood\obj\Debug\netcoreapp2.1\Razor\Views\Food\Index.g.cshtml.cs
+D:\DERSLER\YAZILIM DERSLERİ\WEB TASARIMI VE PROGRAMLAMA\WEB ÖRNEKLER\BACK-END\DotNet\Core\CoreAndFood\CoreAndFood\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+D:\DERSLER\YAZILIM DERSLERİ\WEB TASARIMI VE PROGRAMLAMA\WEB ÖRNEKLER\BACK-END\DotNet\Core\CoreAndFood\CoreAndFood\obj\Debug\netcoreapp2.1\CoreAndFood.RazorTargetAssemblyInfo.cache
+D:\DERSLER\YAZILIM DERSLERİ\WEB TASARIMI VE PROGRAMLAMA\WEB ÖRNEKLER\BACK-END\DotNet\Core\CoreAndFood\CoreAndFood\obj\Debug\netcoreapp2.1\CoreAndFood.RazorTargetAssemblyInfo.cs
+D:\DERSLER\YAZILIM DERSLERİ\WEB TASARIMI VE PROGRAMLAMA\WEB ÖRNEKLER\BACK-END\DotNet\Core\CoreAndFood\CoreAndFood\obj\Debug\netcoreapp2.1\CoreAndFood.Views.pdb
+D:\DERSLER\YAZILIM DERSLERİ\WEB TASARIMI VE PROGRAMLAMA\WEB ÖRNEKLER\BACK-END\DotNet\Core\CoreAndFood\CoreAndFood\obj\Debug\netcoreapp2.1\CoreAndFood.dll
+D:\DERSLER\YAZILIM DERSLERİ\WEB TASARIMI VE PROGRAMLAMA\WEB ÖRNEKLER\BACK-END\DotNet\Core\CoreAndFood\CoreAndFood\obj\Debug\netcoreapp2.1\CoreAndFood.pdb
+D:\DERSLER\YAZILIM DERSLERİ\WEB TASARIMI VE PROGRAMLAMA\WEB ÖRNEKLER\BACK-END\DotNet\Core\CoreAndFood\CoreAndFood\obj\Debug\netcoreapp2.1\CoreAndFood.csproj.CopyComplete
+D:\DERSLER\YAZILIM DERSLERİ\WEB TASARIMI VE PROGRAMLAMA\WEB ÖRNEKLER\BACK-END\DotNet\Core\CoreAndFood\CoreAndFood\obj\Debug\netcoreapp2.1\Razor\Views\Category\CategoryAdd.g.cshtml.cs
+D:\DERSLER\YAZILIM DERSLERİ\WEB TASARIMI VE PROGRAMLAMA\WEB ÖRNEKLER\BACK-END\DotNet\Core\CoreAndFood\CoreAndFood\obj\Debug\netcoreapp2.1\Razor\Views\Food\FoodAdd.g.cshtml.cs
+D:\DERSLER\YAZILIM DERSLERİ\WEB TASARIMI VE PROGRAMLAMA\WEB ÖRNEKLER\BACK-END\DotNet\Core\CoreAndFood\CoreAndFood\obj\Debug\netcoreapp2.1\Razor\Views\Category\CategoryGet.g.cshtml.cs
+D:\DERSLER\YAZILIM DERSLERİ\WEB TASARIMI VE PROGRAMLAMA\WEB ÖRNEKLER\BACK-END\DotNet\Core\CoreAndFood\CoreAndFood\obj\Debug\netcoreapp2.1\Razor\Views\Food\FoodGet.g.cshtml.cs
+D:\DERSLER\YAZILIM DERSLERİ\WEB TASARIMI VE PROGRAMLAMA\WEB ÖRNEKLER\BACK-END\DotNet\Core\CoreAndFood\CoreAndFood\obj\Debug\netcoreapp2.1\Razor\Views\Chart\Index.g.cshtml.cs
+D:\DERSLER\YAZILIM DERSLERİ\WEB TASARIMI VE PROGRAMLAMA\WEB ÖRNEKLER\BACK-END\DotNet\Core\CoreAndFood\CoreAndFood\obj\Debug\netcoreapp2.1\Razor\Views\Chart\Statistics.g.cshtml.cs
+D:\DERSLER\YAZILIM DERSLERİ\WEB TASARIMI VE PROGRAMLAMA\WEB ÖRNEKLER\BACK-END\DotNet\Core\CoreAndFood\CoreAndFood\obj\Debug\netcoreapp2.1\Razor\Views\Login\Index.g.cshtml.cs
+D:\DERSLER\YAZILIM DERSLERİ\WEB TASARIMI VE PROGRAMLAMA\WEB ÖRNEKLER\BACK-END\DotNet\Core\CoreAndFood\CoreAndFood\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_SiteLayout.g.cshtml.cs
+D:\DERSLER\YAZILIM DERSLERİ\WEB TASARIMI VE PROGRAMLAMA\WEB ÖRNEKLER\BACK-END\DotNet\Core\CoreAndFood\CoreAndFood\obj\Debug\netcoreapp2.1\Razor\Views\Vitrin\Index.g.cshtml.cs
+D:\DERSLER\YAZILIM DERSLERİ\WEB TASARIMI VE PROGRAMLAMA\WEB ÖRNEKLER\BACK-END\DotNet\Core\CoreAndFood\CoreAndFood\obj\Debug\netcoreapp2.1\Razor\Views\Vitrin\Components\CategoryGetList\Default.g.cshtml.cs
+D:\DERSLER\YAZILIM DERSLERİ\WEB TASARIMI VE PROGRAMLAMA\WEB ÖRNEKLER\BACK-END\DotNet\Core\CoreAndFood\CoreAndFood\obj\Debug\netcoreapp2.1\Razor\Views\Vitrin\Components\FoodGetList\Default.g.cshtml.cs
+D:\DERSLER\YAZILIM DERSLERİ\WEB TASARIMI VE PROGRAMLAMA\WEB ÖRNEKLER\BACK-END\DotNet\Core\CoreAndFood\CoreAndFood\obj\Debug\netcoreapp2.1\Razor\Views\Vitrin\CategoryDetails.g.cshtml.cs
+D:\DERSLER\YAZILIM DERSLERİ\WEB TASARIMI VE PROGRAMLAMA\WEB ÖRNEKLER\BACK-END\DotNet\Core\CoreAndFood\CoreAndFood\obj\Debug\netcoreapp2.1\Razor\Views\Vitrin\Components\FoodListByCategory\Default.g.cshtml.cs

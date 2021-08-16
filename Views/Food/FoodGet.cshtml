@@ -1,0 +1,41 @@
+﻿@model CoreAndFood.Data.Models.Food
+@{
+    ViewData["Title"] = "FoodGet";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Food Update Page</h2>
+<br />
+@using (Html.BeginForm("FoodUpdate", "Food", FormMethod.Post))
+{
+   
+    @Html.HiddenFor(x => x.FoodID, new { @class = "form-control" })
+    <br />
+
+    @Html.Label("Food Name")
+    @Html.TextBoxFor(x => x.Name, new { @class = "form-control" })
+    @Html.ValidationMessageFor(x => x.Name, "", new { @style = "color:red" })
+    <br />
+    @Html.Label("Stock")
+    @Html.TextBoxFor(x => x.Stock, new { @class = "form-control" })
+    @Html.ValidationMessageFor(x => x.Stock, "", new { @style = "color:red" })
+    <br />
+
+    @Html.Label("Price")
+    @Html.TextBoxFor(x => x.Price, new { @class = "form-control" })
+    @Html.ValidationMessageFor(x => x.Price, "", new { @style = "color:red" })
+    <br />
+    @Html.Label("Image Url")
+    @Html.TextBoxFor(x => x.ImageUrl, new { @class = "form-control" })
+    <br />
+    @Html.Label("Category")
+    @Html.DropDownListFor(x => x.CategoryID, (List<SelectListItem>)ViewBag.v1, new { @class = "form-control" })
+
+    <br />
+    @Html.Label("Description")
+    @Html.TextAreaFor(x => x.Description, new { @class = "form-control" })
+    @Html.ValidationMessageFor(x => x.Description, "", new { @style = "color:red" })
+    <br />
+    <button class="btn btn-info">Update</button>
+}
+
